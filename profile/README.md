@@ -10,4 +10,4 @@
 
 [Instagram peredelanoconf](https://www.instagram.com/peredelanoconf)
 
-Если у вас есть вопросы или предложения по сотрудничеству, не стесняйтесь обращаться в Телеграм: [@ilakhov](https://t.me/ilakhov), [@fillpackart](https://t.me/fillpackart), [@anptitsyn](https://t.me/anptitsyn). Мы всегда открыты для диалога и с радостью обсудим возможности сотрудничества.
+Если у вас есть вопросы или предложения по сотрудничеству, не стесняйтесь обращаться в Телеграм: [@ilakhov](https://t.me/ilakhov), [@fillpackart](https://t.me/fillpackart), [@antonptitsyn](https://t.me/antonptitsyn). Мы всегда открыты для диалога и с радостью обсудим возможности сотрудничества.
