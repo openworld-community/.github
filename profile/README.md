@@ -1,24 +1,14 @@
-# 🔄  🔊 Пошаговая инструкция для новоприбывших: как начать работу в Peredelano Startups - [Алгоритм](https://t.me/peredelanoconfjunior/12290/16535)
+# Ссылки на наши сообщества
+- [Peredelano Community Discord](https://discord.gg/peredelano)
+- [Peredelano Community Telegram](https://t.me/Peredelano_bot)
+- [Peredelanostartups Progress](https://t.me/peredelanoprogress)
+- [Peredelanoconf Telegram](https://t.me/peredelanoconfchannel)
+- [Peredelano Youtube](https://www.youtube.com/@peredelanomedia)
+- [Peredelanoconf Twitter](https://twitter.com/peredelano_conf)
+- [Peredelanostartups Notion](https://peredelanostartups.notion.site/peredelanostartups/Peredelano-449c0c7cf38e4fe7bbd42c95d9220a8e)
+- [Peredelanoconf Notion](https://peredelanoconf.notion.site/peredelanoconf)
 
-- Заполни профиль [при помощи бота](https://t.me/Peredelano_bot) - 🎩распределяющая шляпа PEREDELANO_BOT. Нажимай на кнопочки, пиши свой стек, следуй инструкциям бота
-- Ознакомься со списком проектов и [информацией по ним в ноушенах](https://peredelanostartups.notion.site/peredelanostartups/449c0c7cf38e4fe7bbd42c95d9220a8e) 
-- Выбери, подходящий и недоукомплектованный стартап ИЛИ 🗣 следи за новостями стартапов в [Дискорде](https://discord.com/channels/1109396222604738612/1109425209242566726), ЛИБО [в Телеге](https://t.me/peredelanoconfjunior/12290)
- - Дополнительно проверь, возможно где-то требуются как раз твои умения 💪 [Вот актуальная таблица](https://peredelanostartups.notion.site/860a3cd01c134016ac7e790d91c5e7b2?v=2a7fa83d6593420ea404790ee5018adb&pvs=4)
-
-- Возможно ты нужен именно этому стартапу - [загляни в эту тему](https://t.me/peredelanoconfjunior/16817)
-- Можешь также проверить тему с [вакансиями "от своих"](https://t.me/peredelanoconfjunior/16468)
-- Если не нашел подходящего стартапа, ты можешь собрать свою команду и реализовать эту идею! Для этого необходимо дополнительно зайти в [Discord](https://discord.com/channels/1109396222604738612/1109398483548508160), познакомиться и объединиться в команду
-- [Подпишись на участников Переделано и оставь свой Твиттер](https://t.me/peredelanoconfjunior/16223)
-- По любым другим вопросам вам [всегда помогут здесь](https://t.me/peredelanoconfjunior/12465), а также [@ilakhov](https://t.me/ilakhov), [@fillpackart](https://t.me/fillpackart) и [@antonptitsyn](https://t.me/antonptitsyn)
-***
-
-## Обзор по темам в Телеграме и Дискорде
-
-👀 Насладиться процессом становления крутого проекта можно на [youtube-канале](https://www.youtube.com/@peredelanomedia) ПеределаноСтартапс. 
-
-- 💡 Свои ИДЕИ для стартапа пиши с тегами #Idea #Startup [в Дискорде](https://discord.com/channels/1109396222604738612/1109476661499535511) ЛИБО [в Телеге](https://t.me/peredelanoconfjunior/12272)
-- 👄 Болталка, флуд на все темы  [в Дискорде](https://discord.com/channels/1109396222604738612/1109398483548508160) ЛИБО [в Телеге](https://t.me/peredelanoconfjunior/13003)
-- 🟢 Джуны общаются [здесь](https://t.me/peredelanoconfjunior/12280) на джуновские темы
-- 🔲 [Все КРИПТО вопросы и темы](https://t.me/peredelanoconfjunior/13095)
-- ☣ [Раздел GameDev](https://t.me/peredelanoconfjunior/12725)
-- ❓ [Отчеты о том, что сделано](https://t.me/peredelanoprogress) в стартапах, раз в неделю по понедельникам
+# Другие полезные ссылки
+- [Информация о проектах сообщества Peredelano](https://peredelanostartups.notion.site/860a3cd01c134016ac7e790d91c5e7b2?v=2a7fa83d6593420ea404790ee5018adb&pvs=4)
+- [Дорожная карта нового проекта сообщества Peredelano](https://peredelanostartups.notion.site/Peredelano-e5ae74aa06554b6f8770b71b6f8a0c2f?pvs=4)
+- [Участники проектов сообщества](https://peredelanostartups.notion.site/4de64c0cf481470ba74864eba7e81550?v=0af6755e635540e2950b6cf7d7da3b45&pvs=4)
